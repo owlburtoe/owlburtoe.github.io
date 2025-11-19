@@ -1,4 +1,4 @@
-# Hey, I’m Alberto
+# Hey, I'm Alberto
 
 I am an ICU nurse who also spends a lot of time building and running my own home infrastructure.
 
@@ -42,4 +42,4 @@ I break out the larger things I have built and how I approached them.
 I am a critical care RN with a strong interest in systems, tooling, and automation.  
 I like building things that feel solid and understandable, and that I can repair when they fail.
 
-You can reach me here on GitHub or add a contact section later.
+You can reach me here on GitHub.
