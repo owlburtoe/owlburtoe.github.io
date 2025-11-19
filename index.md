@@ -1,4 +1,4 @@
- # Hey, I’m Alberto
+# Hey, I’m Alberto
 
 I am an ICU nurse who also spends a lot of time building and running my own home infrastructure.
 
@@ -13,17 +13,17 @@ Now I am putting both sides together as I move into the tech world.
 
 ## What I work on
 
-- Kubernetes and containerized services at home  
+- Kubernetes and containerized services  
 - NFS-backed storage and backup workflows  
 - Reverse proxy and DNS automation with Cloudflare and Nginx Proxy Manager  
 - Single sign-on and OIDC with Authentik  
-- A growing stack of self hosted apps for media, photos, books, and automation  
+- A growing stack of self-hosted apps for media, photos, books, and automation  
 
 ---
 
 ## Architecture
 
-My homelab infrastructure environment. 
+I document my homelab like a real environment, not just a pile of containers.
 
 👉 [See my infrastructure diagram](infrastructure.md)
 
@@ -31,7 +31,7 @@ My homelab infrastructure environment.
 
 ## Projects
 
-I break out some of the larger things I have built and how I approached them.
+I break out the larger things I have built and how I approached them.
 
 👉 [Read my project writeups](projects.md)
 
@@ -40,4 +40,6 @@ I break out some of the larger things I have built and how I approached them.
 ## About me
 
 I am a critical care RN with a strong interest in systems, tooling, and automation.  
-I like building things that feel solid, understandable, and repairable when they fail.
+I like building things that feel solid and understandable, and that I can repair when they fail.
+
+You can reach me here on GitHub or add a contact section later.
